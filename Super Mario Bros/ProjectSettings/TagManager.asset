@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Obstacle
+  - Coin
+  - Brick
+  - QuestionBlock
+  - Mushroom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Prop
+  - Item
+  - Hittable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4230965413
+    locked: 0
+  - name: Item
+    uniqueID: 2121934737
+    locked: 0
+  - name: Prop
+    uniqueID: 2788872679
+    locked: 0
+  - name: Character
+    uniqueID: 1624188811
+    locked: 0
